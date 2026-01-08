@@ -20,19 +20,19 @@ namespace Application.Features.Invoice.Queries.GetInvoice
 
     public class GetInvoiceCmdResponse
     {
-        public Guid Id { get; set; }
-        public string Tipo { get; set; }
-        public string Serie { get; set; }
-        public int Numero { get; set; }
-        public DateTime FechaEmision { get; set; }
-        public string RucEmisor { get; set; }
-        public string RazonSocialEmisor { get; set; }
-        public string RucReceptor { get; set; }
-        public string RazonSocialReceptor { get; set; }
-        public decimal Subtotal { get; set; }
-        public decimal Igv { get; set; }
-        public decimal Total { get; set; }
-        public short Estado { get; set; }
-        public string EstadoDescripcion { get; set; }
+        public Guid id { get; set; }
+        public string tipo { get; set; }
+        public string serie { get; set; }
+        public int numero { get; set; }
+        public DateTime fecha_emision { get; set; }
+        public string ruc_emisor { get; set; }
+        public string razon_social_emisor { get; set; }
+        public string ruc_receptor { get; set; }
+        public string razon_social_receptor { get; set; }
+        public decimal subtotal { get; set; }
+        public decimal igv { get; set; }
+        public decimal total { get; set; }
+        public short estado { get; set; }
+        public string estado_descripcion { get; set; }
     }
 }
