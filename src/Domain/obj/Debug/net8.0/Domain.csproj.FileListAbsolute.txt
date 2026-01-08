@@ -1,0 +1,11 @@
+D:\contasiscorp\src\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\contasiscorp\src\Domain\bin\Debug\net8.0\Domain.dll
+D:\contasiscorp\src\Domain\bin\Debug\net8.0\Domain.pdb
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\Domain.dll
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\Domain.pdb
+D:\contasiscorp\src\Domain\obj\Debug\net8.0\ref\Domain.dll
